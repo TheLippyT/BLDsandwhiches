@@ -8,7 +8,7 @@ public class ApplicationConfig extends Application {
     @Override
     public Map<String, Object> getProperties() {
         Map<String, Object> properties = new HashMap<String, Object>();
-        properties.put("jersey.config.server.provider.packages", "sr.unasat.library.controller");
+        properties.put("jersey.config.server.provider.packages", "sr.unasat.bldsandwhiches.controller");
         return properties;
     }
 }
