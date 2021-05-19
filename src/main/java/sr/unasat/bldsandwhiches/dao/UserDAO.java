@@ -1,4 +1,4 @@
 package sr.unasat.bldsandwhiches.dao;
 
-public class SandwhichDAO {
+public class UserDAO {
 }

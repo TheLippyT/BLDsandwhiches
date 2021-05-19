@@ -10,12 +10,12 @@
         <properties>
 
             <property name="javax.persistence.jdbc.url"
-                      value="jdbc:mysql://localhost:3306/unalashrm?useUnicode=true;characterEncoding=UTF-8;useSSL=false;verifyServerCertificate=false;"/>
+                      value="jdbc:mysql://localhost:3306/bldsandwiches?useUnicode=true;characterEncoding=UTF-8;useSSL=false;verifyServerCertificate=false;"/>
 
             <property name="javax.persistence.jdbc.user" value="root"/>
 
 
-            <property name="javax.persistence.jdbc.password" value="12root"/>
+            <property name="javax.persistence.jdbc.password" value=""/>
         </properties>
     </persistence-unit>
 </persistence>
